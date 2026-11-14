@@ -1,0 +1,1562 @@
+[
+  {
+    "module": "Module 1: School days",
+    "id": "M1-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the notice: 'Please bring your Dictionary to English Class on Tuesdays & Thursdays! Mr Brown.' What is this text about?",
+    "options": [
+      "A school subject",
+      "A school rule for a lesson",
+      "A new teacher"
+    ],
+    "answer": "A school rule for a lesson"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the notice: 'No PE on Friday, 6th. Thank you, Mrs Sanders.' What is this text about?",
+    "options": [
+      "Cancellation of a lesson",
+      "Buying textbooks",
+      "A school timetable"
+    ],
+    "answer": "Cancellation of a lesson"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'FOR SCIENCE CLASS YOU NEED: A pencil, a rubber, a pencil sharpener, a ruler, a notebook.' What is this text about?",
+    "options": [
+      "Things you need for a lesson",
+      "Your favourite subjects",
+      "Your new classmates"
+    ],
+    "answer": "Things you need for a lesson"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'History Class. Mondays & Wednesdays. Room E.' Where is the History class?",
+    "options": [
+      "Room A",
+      "Room D",
+      "Room E"
+    ],
+    "answer": "Room E"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read the Science notice again. What do you need for the Science class?",
+    "options": [
+      "A dictionary",
+      "A ruler",
+      "A book"
+    ],
+    "answer": "A ruler"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read the notice: 'Please bring your Dictionary... Mr Brown.' Who is the English teacher?",
+    "options": [
+      "Mr Brown",
+      "Mrs Sanders",
+      "Mr Green"
+    ],
+    "answer": "Mr Brown"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "I have got ___ apple in my school bag. (a / an)",
+    "options": [
+      "a",
+      "an",
+      "the"
+    ],
+    "answer": "an"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "My favourite subject ___ Maths. (am / is / are)",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "answer": "is"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Tom and I are in Year 5. ___ are good friends. (Personal pronoun)",
+    "options": [
+      "He",
+      "They",
+      "We"
+    ],
+    "answer": "We"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "We have Maths, English, History and Science. These are my favourite school ______.",
+    "options": [
+      "objects",
+      "subjects",
+      "rooms"
+    ],
+    "answer": "subjects"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "I put my pens and pencils in my pencil ______.",
+    "options": [
+      "case",
+      "box",
+      "bag"
+    ],
+    "answer": "case"
+  },
+  {
+    "module": "Module 1: School days",
+    "id": "M1-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "The day after Monday is ______.",
+    "options": [
+      "Sunday",
+      "Tuesday",
+      "Friday"
+    ],
+    "answer": "Tuesday"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the text about Spider-Man. Peter Parker lives in New York City with his Aunt Mary. What is this text about?",
+    "options": [
+      "A school day",
+      "A superhero",
+      "A pet"
+    ],
+    "answer": "A superhero"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue. Tim: 'Is that your new bike?' Amy: 'Yes, it is!' What is this text about?",
+    "options": [
+      "Birthday presents",
+      "School subjects",
+      "Favourite food"
+    ],
+    "answer": "Birthday presents"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'My family is big. I have got a mum, a dad, a sister and a brother. My grandparents live in a village.' What is the text about?",
+    "options": [
+      "A school day",
+      "A family",
+      "A pet"
+    ],
+    "answer": "A family"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read the text about Spider-Man. Who is his best friend?",
+    "options": [
+      "Aunt Mary",
+      "Mary Jane",
+      "The Green Goblin"
+    ],
+    "answer": "Mary Jane"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'My sister is 10. She likes Art and Music. My brother is 15. He likes IT and PE.' Who likes IT?",
+    "options": [
+      "The sister",
+      "The brother",
+      "The grandparents"
+    ],
+    "answer": "The brother"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read the dialogue. What present did Amy get from her mum and dad?",
+    "options": [
+      "A new bike",
+      "A digital camera",
+      "A skateboard"
+    ],
+    "answer": "A digital camera"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "My mum's mother is my ______. (Family member)",
+    "options": [
+      "aunt",
+      "grandma",
+      "sister"
+    ],
+    "answer": "grandma"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Look at ___ boys over there. (this / these / those)",
+    "options": [
+      "this",
+      "these",
+      "those"
+    ],
+    "answer": "those"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Peter Parker ______ got special powers. (have got / has got)",
+    "options": [
+      "have",
+      "has",
+      "is"
+    ],
+    "answer": "has"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "Avril Lavigne is from Canada. She is ______.",
+    "options": [
+      "Canadian",
+      "American",
+      "Russian"
+    ],
+    "answer": "Canadian"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "I ride my ______ to school. It has got two wheels.",
+    "options": [
+      "skateboard",
+      "bicycle",
+      "helmet"
+    ],
+    "answer": "bicycle"
+  },
+  {
+    "module": "Module 2: That's me!",
+    "id": "M2-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "10, 20, 30, 40, 50, 60, 70, 80, 90, ______.",
+    "options": [
+      "eleven",
+      "one hundred",
+      "ninety"
+    ],
+    "answer": "one hundred"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'Live High Up! Some people live in tall buildings. They have a great view from the window.' What is the text about?",
+    "options": [
+      "A house on a tree",
+      "Living in tall buildings",
+      "A typical English house"
+    ],
+    "answer": "Living in tall buildings"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: Is there a balcony in your flat? B: Yes, there is. Come and see the view!' What are they talking about?",
+    "options": [
+      "Buying a house",
+      "Describing a flat",
+      "A new bedroom"
+    ],
+    "answer": "Describing a flat"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'A typical English house has got a garden. People love flowers.' What is this text about?",
+    "options": [
+      "English houses",
+      "Furniture",
+      "Taj Mahal"
+    ],
+    "answer": "English houses"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'Move in! The living room is on the first floor. The bedroom is on the second floor.' Where is the bedroom?",
+    "options": [
+      "First floor",
+      "Second floor",
+      "Ground floor"
+    ],
+    "answer": "Second floor"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'My bedroom is small. There is a bed, a desk and a chair. The desk is next to the window.' What is next to the window?",
+    "options": [
+      "The bed",
+      "The desk",
+      "The chair"
+    ],
+    "answer": "The desk"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'There is a big sofa and two armchairs in the living room.' How many armchairs are there?",
+    "options": [
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "Two"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "There ___ two windows in my bedroom. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "answer": "are"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "The cat is ___ the table. (under / on / in)",
+    "options": [
+      "under",
+      "on",
+      "in"
+    ],
+    "answer": "under"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Monday is the ___ day of the week. (Ordinal number)",
+    "options": [
+      "one",
+      "first",
+      "second"
+    ],
+    "answer": "first"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "We cook food in the ______.",
+    "options": [
+      "bedroom",
+      "kitchen",
+      "bathroom"
+    ],
+    "answer": "kitchen"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "I sleep in my ______.",
+    "options": [
+      "living room",
+      "bedroom",
+      "hall"
+    ],
+    "answer": "bedroom"
+  },
+  {
+    "module": "Module 3: My home",
+    "id": "M3-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "We watch TV in the ______.",
+    "options": [
+      "living room",
+      "bathroom",
+      "kitchen"
+    ],
+    "answer": "living room"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the diary: 'Dear Diary, today is Sunday. My family is at home. Mum is cooking, Dad is reading, and my sister is playing with the dog.' What is the text about?",
+    "options": [
+      "A school day",
+      "Family activities at home",
+      "A trip to the zoo"
+    ],
+    "answer": "Family activities at home"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'The British Royal Family is famous. Queen Elizabeth II has got four children.' What is this text about?",
+    "options": [
+      "Famous people",
+      "School subjects",
+      "Pets"
+    ],
+    "answer": "Famous people"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: Who is this woman in the photo? B: She is my aunt. She is very kind.' What are they doing?",
+    "options": [
+      "Identifying a person",
+      "Buying a present",
+      "Describing a room"
+    ],
+    "answer": "Identifying a person"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'My cousin is 12 years old. He has got short dark hair and blue eyes.' What colour are his eyes?",
+    "options": [
+      "Brown",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'My dad can drive a car, but he can't ride a bike.' What can't the dad do?",
+    "options": [
+      "Drive a car",
+      "Ride a bike",
+      "Cook dinner"
+    ],
+    "answer": "Ride a bike"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'My grandpa is 70. He likes reading books and playing chess.' What does the grandpa like?",
+    "options": [
+      "Watching TV",
+      "Playing chess",
+      "Running"
+    ],
+    "answer": "Playing chess"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "This is my ______ bag. (mum / mum's)",
+    "options": [
+      "mum",
+      "mum's",
+      "mums"
+    ],
+    "answer": "mum's"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Look at that boy. ___ name is Tom. (His / Her / Their)",
+    "options": [
+      "His",
+      "Her",
+      "Their"
+    ],
+    "answer": "His"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "I ___ swim very well. (can / can't)",
+    "options": [
+      "can",
+      "can't",
+      "am"
+    ],
+    "answer": "can"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "My father's brother is my ______.",
+    "options": [
+      "uncle",
+      "aunt",
+      "grandpa"
+    ],
+    "answer": "uncle"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "My mum's sister is my ______.",
+    "options": [
+      "uncle",
+      "aunt",
+      "grandma"
+    ],
+    "answer": "aunt"
+  },
+  {
+    "module": "Module 4: Family ties",
+    "id": "M4-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "He is very ______. He always makes people laugh.",
+    "options": [
+      "funny",
+      "quiet",
+      "sad"
+    ],
+    "answer": "funny"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'Animals of India. India is home to many amazing animals. You can see tigers, elephants and monkeys there.' What is this text about?",
+    "options": [
+      "Animals in India",
+      "A trip to the zoo",
+      "Pets in the UK"
+    ],
+    "answer": "Animals in India"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: Look at that big animal! B: It's an elephant. It has got a long nose.' Where are they?",
+    "options": [
+      "At the zoo",
+      "At school",
+      "At home"
+    ],
+    "answer": "At the zoo"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'My pet is a cat. His name is Barsik. He likes milk and fish.' What is this text about?",
+    "options": [
+      "A pet",
+      "A wild animal",
+      "An insect"
+    ],
+    "answer": "A pet"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'The giraffe has got a very long neck. It eats leaves from tall trees.' What does the giraffe eat?",
+    "options": [
+      "Meat",
+      "Leaves",
+      "Fish"
+    ],
+    "answer": "Leaves"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'The tiger is a big cat. It lives in the jungle and it can run very fast.' Where does the tiger live?",
+    "options": [
+      "In the desert",
+      "In the jungle",
+      "In the ocean"
+    ],
+    "answer": "In the jungle"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'The monkey has got long arms and a long tail. It likes bananas.' What does the monkey like?",
+    "options": [
+      "Apples",
+      "Bananas",
+      "Carrots"
+    ],
+    "answer": "Bananas"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "The elephant ______ a big nose. (have got / has got)",
+    "options": [
+      "have got",
+      "has got",
+      "is"
+    ],
+    "answer": "has got"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Lions ______ in Africa. (live / lives)",
+    "options": [
+      "live",
+      "lives",
+      "living"
+    ],
+    "answer": "live"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "______ the cat like milk? (Do / Does)",
+    "options": [
+      "Do",
+      "Does",
+      "Is"
+    ],
+    "answer": "Does"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "A ______ has got a very long neck.",
+    "options": [
+      "tiger",
+      "giraffe",
+      "bear"
+    ],
+    "answer": "giraffe"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "A ______ lives in the ocean. It is very big.",
+    "options": [
+      "whale",
+      "lion",
+      "monkey"
+    ],
+    "answer": "whale"
+  },
+  {
+    "module": "Module 5: World animals",
+    "id": "M5-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "The animal has got four ______. (parts of the body)",
+    "options": [
+      "legs",
+      "wings",
+      "tails"
+    ],
+    "answer": "legs"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'Lara Croft is a famous character. She gets up at 7 am, goes jogging, and then works all day.' What is the text about?",
+    "options": [
+      "Her daily routine",
+      "Her favourite food",
+      "Her family"
+    ],
+    "answer": "Her daily routine"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: What does your mum do? B: She is a doctor. She works in a hospital.' What are they talking about?",
+    "options": [
+      "Jobs",
+      "Weekends",
+      "Weather"
+    ],
+    "answer": "Jobs"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the email: 'Hi Tom, on Saturday my family and I are going to the park. We are having a picnic.' What is this text about?",
+    "options": [
+      "Weekend plans",
+      "School subjects",
+      "A new pet"
+    ],
+    "answer": "Weekend plans"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'I always wake up at 7:00 and have breakfast at 7:30.' What time does he have breakfast?",
+    "options": [
+      "At 7:00",
+      "At 7:30",
+      "At 8:00"
+    ],
+    "answer": "At 7:30"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'My brother is a waiter. He works in a cafe.' Where does the brother work?",
+    "options": [
+      "In a school",
+      "In a cafe",
+      "In a hospital"
+    ],
+    "answer": "In a cafe"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read the email: 'On Sunday morning we are playing football. In the afternoon we are watching a film.' What are they doing in the afternoon?",
+    "options": [
+      "Playing football",
+      "Watching a film",
+      "Reading books"
+    ],
+    "answer": "Watching a film"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Look! The cat ______ sleeping on the sofa. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "am"
+    ],
+    "answer": "is"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "I ______ go to school on Sundays. (always / never)",
+    "options": [
+      "always",
+      "never",
+      "usually"
+    ],
+    "answer": "never"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "We have English class ______ Monday. (in / on / at)",
+    "options": [
+      "in",
+      "on",
+      "at"
+    ],
+    "answer": "on"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "A person who flies a plane is a ______.",
+    "options": [
+      "pilot",
+      "driver",
+      "vet"
+    ],
+    "answer": "pilot"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "I ______ my teeth every morning.",
+    "options": [
+      "brush",
+      "wash",
+      "clean"
+    ],
+    "answer": "brush"
+  },
+  {
+    "module": "Module 6: Round the clock",
+    "id": "M6-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "It is 8:30. It is half ______ eight.",
+    "options": [
+      "past",
+      "to",
+      "quarter"
+    ],
+    "answer": "past"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the chat: 'A: What's the weather like in London today? B: It's raining and cold.' What are they talking about?",
+    "options": [
+      "The weather",
+      "Clothes",
+      "Shopping"
+    ],
+    "answer": "The weather"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: Can I help you? B: Yes, I'm looking for a warm jacket.' Where are they?",
+    "options": [
+      "At school",
+      "In a clothes shop",
+      "At the zoo"
+    ],
+    "answer": "In a clothes shop"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the postcard: 'Dear Ann, I am on holiday in Spain. It is sunny and hot here. I am swimming every day.' What is the text about?",
+    "options": [
+      "A holiday",
+      "A school day",
+      "A new house"
+    ],
+    "answer": "A holiday"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'In winter it is cold and snowy. We wear warm coats and hats.' What do they wear in winter?",
+    "options": [
+      "T-shirts",
+      "Warm coats",
+      "Shorts"
+    ],
+    "answer": "Warm coats"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: How much is this scarf? B: It's 10 pounds.' How much is the scarf?",
+    "options": [
+      "10 pounds",
+      "20 pounds",
+      "5 pounds"
+    ],
+    "answer": "10 pounds"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'The weather in Alaska is very cold. In summer it is not very hot.' Is it hot in Alaska in summer?",
+    "options": [
+      "Yes, it is",
+      "No, it isn't",
+      "It is very hot"
+    ],
+    "answer": "No, it isn't"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Look out of the window! It ______ now. (is raining / rains)",
+    "options": [
+      "is raining",
+      "rains",
+      "rain"
+    ],
+    "answer": "is raining"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "______ is my favourite season because of the snow. (Winter / Summer)",
+    "options": [
+      "Winter",
+      "Summer",
+      "Spring"
+    ],
+    "answer": "Winter"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "She usually ______ a dress in summer. (wear / wears)",
+    "options": [
+      "wear",
+      "wears",
+      "wearing"
+    ],
+    "answer": "wears"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "When it is rainy, I take an ______.",
+    "options": [
+      "umbrella",
+      "sunglasses",
+      "hat"
+    ],
+    "answer": "umbrella"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "In summer it is usually ______.",
+    "options": [
+      "snowy",
+      "hot",
+      "freezing"
+    ],
+    "answer": "hot"
+  },
+  {
+    "module": "Module 7: In all weathers",
+    "id": "M7-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "You wear ______ on your feet.",
+    "options": [
+      "shoes",
+      "gloves",
+      "a scarf"
+    ],
+    "answer": "shoes"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'Harvest time is a special time in many countries. People say thank you for the food.' What is the text about?",
+    "options": [
+      "A harvest festival",
+      "A birthday party",
+      "School rules"
+    ],
+    "answer": "A harvest festival"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: What do we need for the salad? B: We need some tomatoes and cucumbers.' What are they doing?",
+    "options": [
+      "Cooking",
+      "Playing football",
+      "Doing homework"
+    ],
+    "answer": "Cooking"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'Birthday Treats. In China, people eat noodles for a long life. In the UK, they eat a birthday cake.' What is the text about?",
+    "options": [
+      "Birthday food in different countries",
+      "School subjects",
+      "Favourite animals"
+    ],
+    "answer": "Birthday food in different countries"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'For the party we need two bottles of coke and a big cake.' How many bottles of coke do they need?",
+    "options": [
+      "One",
+      "Two",
+      "Three"
+    ],
+    "answer": "Two"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'Thanksgiving is in November in the USA. Families eat turkey.' When is Thanksgiving?",
+    "options": [
+      "In December",
+      "In November",
+      "In October"
+    ],
+    "answer": "In November"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'I would like a glass of orange juice, please.' What does the person want to drink?",
+    "options": [
+      "Water",
+      "Orange juice",
+      "Milk"
+    ],
+    "answer": "Orange juice"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "There is ______ milk in the fridge. (some / any)",
+    "options": [
+      "some",
+      "any",
+      "much"
+    ],
+    "answer": "some"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "How ______ apples do we need? (much / many)",
+    "options": [
+      "much",
+      "many",
+      "any"
+    ],
+    "answer": "many"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "There isn't ______ bread on the table. (some / any)",
+    "options": [
+      "some",
+      "any",
+      "much"
+    ],
+    "answer": "any"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "A ______ is a sweet food made from sugar and cocoa.",
+    "options": [
+      "chocolate",
+      "cheese",
+      "potato"
+    ],
+    "answer": "chocolate"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "We buy a ______ of bread.",
+    "options": [
+      "loaf",
+      "bottle",
+      "packet"
+    ],
+    "answer": "loaf"
+  },
+  {
+    "module": "Module 8: Special days",
+    "id": "M8-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "People give presents and eat cake on their ______.",
+    "options": [
+      "birthday",
+      "Monday",
+      "breakfast"
+    ],
+    "answer": "birthday"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the email: 'Hi Tom, last weekend I went to the cinema. I watched a new comedy. It was great!' What is this text about?",
+    "options": [
+      "A film review",
+      "A school subject",
+      "A pet"
+    ],
+    "answer": "A film review"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: Excuse me, where is the bank? B: Go straight on and turn left.' What are they doing?",
+    "options": [
+      "Asking for directions",
+      "Buying food",
+      "Talking about films"
+    ],
+    "answer": "Asking for directions"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'Busy spots in London. Oxford Street is famous for its shops. Tourists love it.' What is this text about?",
+    "options": [
+      "Shopping in London",
+      "A school day",
+      "Animals"
+    ],
+    "answer": "Shopping in London"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'I went to the supermarket and bought some milk and bread.' Where did the person go?",
+    "options": [
+      "To the supermarket",
+      "To the cinema",
+      "To the park"
+    ],
+    "answer": "To the supermarket"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'I watched Harry Potter and the Half-Blood Prince. It is a fantasy film.' What type of film is it?",
+    "options": [
+      "Comedy",
+      "Fantasy",
+      "Action"
+    ],
+    "answer": "Fantasy"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'Go straight on, then turn right. The shop is next to the cafe.' Where is the shop?",
+    "options": [
+      "Next to the cafe",
+      "Next to the school",
+      "Behind the bank"
+    ],
+    "answer": "Next to the cafe"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Last weekend I ______ to the park. (go / went)",
+    "options": [
+      "go",
+      "went",
+      "going"
+    ],
+    "answer": "went"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "We ______ a great film yesterday. (see / saw)",
+    "options": [
+      "see",
+      "saw",
+      "seen"
+    ],
+    "answer": "saw"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "She ______ her homework two hours ago. (do / did)",
+    "options": [
+      "do",
+      "did",
+      "does"
+    ],
+    "answer": "did"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "You buy medicine at the ______.",
+    "options": [
+      "chemist's",
+      "bank",
+      "cinema"
+    ],
+    "answer": "chemist's"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "A film that makes you laugh is a ______.",
+    "options": [
+      "comedy",
+      "horror",
+      "action"
+    ],
+    "answer": "comedy"
+  },
+  {
+    "module": "Module 9: Modern living",
+    "id": "M9-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "You can buy books at the ______.",
+    "options": [
+      "bookshop",
+      "bakery",
+      "shoe shop"
+    ],
+    "answer": "bookshop"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-R1-01",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the advert: 'Visit Egypt! See the Pyramids and ride a camel. It is an unforgettable holiday!' What is the text about?",
+    "options": [
+      "A holiday in Egypt",
+      "A school trip",
+      "A new film"
+    ],
+    "answer": "A holiday in Egypt"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-R1-02",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read the dialogue: 'A: What's the matter? B: I have got a headache. A: You should go to bed.' What is the problem?",
+    "options": [
+      "A health problem",
+      "A school subject",
+      "A new pet"
+    ],
+    "answer": "A health problem"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-R1-03",
+    "skill": "R1",
+    "type": "mc",
+    "prompt": "Read: 'Plans for the day. In the morning we are going to the beach. In the evening we are having a barbecue.' What is this text about?",
+    "options": [
+      "Plans for the day",
+      "Clothes",
+      "Shopping"
+    ],
+    "answer": "Plans for the day"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-R2-01",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'I am going to travel to Spain by plane.' How is the person going to travel?",
+    "options": [
+      "By train",
+      "By plane",
+      "By car"
+    ],
+    "answer": "By plane"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-R2-02",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'You can rent a bike for 10 pounds a day.' How much does it cost to rent a bike?",
+    "options": [
+      "10 pounds a day",
+      "5 pounds a day",
+      "20 pounds a day"
+    ],
+    "answer": "10 pounds a day"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-R2-03",
+    "skill": "R2",
+    "type": "mc",
+    "prompt": "Read: 'I have visited many countries. I have been to Italy and France.' Which countries has the person visited?",
+    "options": [
+      "Italy and France",
+      "Spain and Italy",
+      "France and Germany"
+    ],
+    "answer": "Italy and France"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-G1-01",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "I ______ already seen this film. (have / has)",
+    "options": [
+      "have",
+      "has",
+      "am"
+    ],
+    "answer": "have"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-G1-02",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "Next summer we ______ going to travel to the sea. (am / is / are)",
+    "options": [
+      "am",
+      "is",
+      "are"
+    ],
+    "answer": "are"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-G1-03",
+    "skill": "G1",
+    "type": "gap",
+    "prompt": "I think it ______ be sunny tomorrow. (will / am)",
+    "options": [
+      "will",
+      "am",
+      "do"
+    ],
+    "answer": "will"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-V1-01",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "You can sleep in a ______ when you go camping.",
+    "options": [
+      "tent",
+      "hotel",
+      "flat"
+    ],
+    "answer": "tent"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-V1-02",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "When you have a toothache, you go to the ______.",
+    "options": [
+      "dentist",
+      "vet",
+      "teacher"
+    ],
+    "answer": "dentist"
+  },
+  {
+    "module": "Module 10: Holidays",
+    "id": "M10-V1-03",
+    "skill": "V1",
+    "type": "gap",
+    "prompt": "Don't forget to take a ______ to protect your skin from the sun.",
+    "options": [
+      "sunscreen",
+      "umbrella",
+      "coat"
+    ],
+    "answer": "sunscreen"
+  }
+]
