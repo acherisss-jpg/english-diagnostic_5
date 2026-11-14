@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 def init_db():
-    conn = sqlite3.connect("/Users/chris/Desktop/Final_Project/results.db")
+    conn = sqlite3.connect("results.db")
     conn.execute("""
         CREATE TABLE IF NOT EXISTS results (
             student TEXT, task_id TEXT, skill TEXT, score INTEGER, phase TEXT, module TEXT
@@ -13,7 +13,7 @@ def init_db():
     """)
     return conn
 
-with open("/Users/chris/Desktop/Final_Project/tasks.json", "r", encoding="utf-8") as f:
+with open("tasks.json", "r", encoding="utf-8") as f:
     TASKS = json.load(f)
 
 conn = init_db()
