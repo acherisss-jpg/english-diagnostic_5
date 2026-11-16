@@ -51,7 +51,9 @@ if menu == "Ученик":
                     conn.commit()
                     st.success("Сохранено!")
             
-            student_data = pd.read_sql_query(f"SELECT * FROM results WHERE class_name='{class_name}' AND student='{student}' AND phase='{phase}' AND module='{selected_module}'", conn)
+            # ИСПРАВЛЕННАЯ СТРОКА ЗДЕСЬ:
+            query = "SELECT * FROM results WHERE class_name=? AND student=? AND phase=? AND module=?"
+            student_data = pd.read_sql_query(query, conn, params=(class_name, student, phase, selected_module))
             
             if len(student_data) == len(module_tasks):
                 st.success(f"Тест по модулю '{selected_module}' завершён.")
@@ -71,7 +73,7 @@ if menu == "Ученик":
                         elif percent >= 50:
                             st.write(f"🟡 **{names[skill]}**: Есть небольшие трудности. Рекомендую посетить консультацию для закрепления материала.")
                         else:
-                            st.write(f"🔴 **{names[skill]}**: Пока сложно. Приходи на консультацию, мы обязательно разберем эту тему.")
+                            st.write(f"🔴 **{names[skill]}**: Пока сложно. Приходи на консультацию в удобное время, мы обязательно разберем эту тему.")
 
 elif menu == "Учитель":
     df = pd.read_sql_query("SELECT * FROM results", conn)
